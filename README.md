@@ -43,3 +43,7 @@ A instalação foi aberta pela biblioteca Steam no ROG Ally. A janela reportou 1
 ## Créditos
 
 O tradutor 68000 e seu cabeçalho de execução vêm do trabalho de Tobic-99, sob GPLv3. Os arquivos de SHARC preservam os avisos BSD originais. Os geradores locais e os dados fornecidos pelo jogador ficam em diretórios separados dos fontes versionados. A referência da placa e os testes de renderização estão documentados no projeto. [demonfront-vita](https://github.com/Tobic-99/demonfront-vita) · [SHARC](video/sharc/README.md) · [ZR107](board/SOURCES.md) · [Licença](LICENSE)
+
+## Artes da biblioteca Steam
+
+O conjunto inclui [capa vertical](artwork/poster.png), [cápsula horizontal](artwork/capsule.png), [fundo panorâmico](artwork/hero.png), [logo transparente](artwork/logo.png) e [ícone](artwork/icon.png). As ilustrações foram criadas para este port a partir do cupê amarelo do folheto japonês e da silhueta urbana vermelha do letreiro do gabinete. [Referências visuais do arcade](https://gamesdb.launchbox-app.com/games/images/37617-midnight-run-road-fighter-2)
